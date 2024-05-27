@@ -24,7 +24,7 @@ Welcome to my GitHub repository! This repository contains a collection of data s
 
 
 [![Email](https://img.shields.io/badge/Email-janianisha36@gmail.com-blue)](mailto:janianisha36@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/anishajani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/anishajani/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/Anishajani49)
 
 
