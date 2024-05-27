@@ -13,7 +13,7 @@ Welcome to my GitHub repository! This repository contains a collection of data s
 
 ### 1. 📊 Netflix Data Analysis with Tableau
 - **Description**: This project involves creating an interactive Tableau dashboard to analyze Netflix data. The dashboard provides insights into trends, popular genres, and user preferences.
-- **Skills Used**: `Tableau`, `Data Visualization`, `Data Cleaning`
+- **Skills Used**: `Tableau`, `Data Visualization`
 - **Highlights**:
   - Created an interactive dashboard to visualize trends and patterns in Netflix's library.
   - Included filters and parameters to allow users to explore the data dynamically.
