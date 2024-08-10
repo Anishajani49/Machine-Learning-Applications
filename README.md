@@ -28,6 +28,36 @@ Welcome to my GitHub repository! This repository contains a collection of data s
   - Evaluated the model using accuracy, precision, recall, and confusion matrix.
 - **Link**: [Decision Tree Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20DECISON%20TREE.ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
 
+### 3. 🔍 K-Nearest Neighbors (KNN) Classification on Breast Cancer Dataset
+- **Description**: This project demonstrates the application of the K-Nearest Neighbors (KNN) algorithm for classification tasks. The KNN algorithm is applied to the [Dataset Name] to predict categorical outcomes based on feature similarity.
+- **Skills Used**: `Python`, `KNN`, `Data Preprocessing`, `Model Evaluation`
+- **Highlights**:
+  - Processed and normalized the dataset to prepare it for KNN analysis.
+  - Trained the KNN model and experimented with different values of `k` to find the optimal number of neighbors.
+  - Evaluated the model's performance using metrics such as accuracy, confusion matrix, and cross-validation.
+- **Link**: [KNN Classification Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20KNN.ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
+
+### 4. 🌲 Random Forest Classification on Play Tennis Dataset
+- **Description**: This project involves implementing a Random Forest classifier to analyze the [Dataset Name]. The Random Forest algorithm is used to predict categorical outcomes by building multiple decision trees and combining their results for more accurate predictions.
+- **Skills Used**: `Python`, `Random Forest`, `Data Preprocessing`, `Model Evaluation`
+- **Highlights**:
+  - Preprocessed the dataset to handle missing values, feature scaling, and encoding categorical variables.
+  - Trained a Random Forest classifier, tuned hyperparameters such as the number of trees, and evaluated model performance.
+  - Assessed feature importance to understand which variables had the most impact on the predictions.
+- **Link**: [Random Forest Classification Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20RANDOM%20FOREST.ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
+
+### 5. ⚖️ Support Vector Machine (SVM) Classification on Pulsar Data
+- **Description**: This project demonstrates the application of a Support Vector Machine (SVM) classifier on the [Dataset Name]. The SVM algorithm is used to classify data by finding the optimal hyperplane that separates different classes.
+- **Skills Used**: `Python`, `SVM`, `Data Preprocessing`, `Model Evaluation`
+- **Highlights**:
+  - Preprocessed the dataset, including feature scaling and encoding of categorical variables, to ensure it is suitable for SVM.
+  - Trained an SVM model with different kernel functions (e.g., linear, polynomial, RBF) and tuned parameters such as `C` and `gamma`.
+  - Evaluated model performance using metrics like accuracy, precision, recall, and ROC curve.
+- **Link**: [SVM Classification Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20SVM.ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
+
+
+
+
 
 
 ## Contact
