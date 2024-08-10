@@ -19,6 +19,16 @@ Welcome to my GitHub repository! This repository contains a collection of data s
   - Included filters and parameters to allow users to explore the data dynamically.
 - **Link**: [[Netflix Tableau Dashboard](https://public.tableau.com/views/Book1_17162201849660/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)](#) <!-- Replace with actual link to Tableau dashboard or repository -->
 
+### 2. 🌳 Decision Tree Classification on Bands Dataset
+- **Description**: This project involves implementing a decision tree classifier to analyze the bands dataset. The project focuses on predicting categorical outcomes based on various input features, demonstrating the effectiveness and interpretability of decision trees in classification tasks.
+- **Skills Used**: `Python`, `Decision Trees`, `Data Preprocessing`
+- **Highlights**:
+  - Preprocessed the dataset to handle missing values and categorical data.
+  - Trained a decision tree classifier and tuned hyperparameters to optimize model performance.
+  - Evaluated the model using accuracy, precision, recall, and confusion matrix.
+- **Link**: [Decision Tree Notebook](#) <!-- Replace with actual link to the notebook on your GitHub repository -->
+
+
 
 ## Contact
 
