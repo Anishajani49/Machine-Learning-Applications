@@ -53,7 +53,7 @@ Welcome to my GitHub repository! This repository contains a collection of data s
   - Preprocessed the dataset, including feature scaling and encoding of categorical variables, to ensure it is suitable for SVM.
   - Trained an SVM model with different kernel functions (e.g., linear, polynomial, RBF) and tuned parameters such as `C` and `gamma`.
   - Evaluated model performance using metrics like accuracy, precision, recall, and ROC curve.
-- **Link**: [SVM Classification Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20SVM.ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
+- **Link**: [SVM Classification Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20SVM%20(1).ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
 
 
 
