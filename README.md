@@ -26,7 +26,7 @@ Welcome to my GitHub repository! This repository contains a collection of data s
   - Preprocessed the dataset to handle missing values and categorical data.
   - Trained a decision tree classifier and tuned hyperparameters to optimize model performance.
   - Evaluated the model using accuracy, precision, recall, and confusion matrix.
-- **Link**: [Decision Tree Notebook](#) <!-- Replace with actual link to the notebook on your GitHub repository -->
+- **Link**: [Decision Tree Notebook](https://github.com/Anishajani49/Projects/blob/main/APPLICATION%20OF%20DECISON%20TREE.ipynb) <!-- Replace with actual link to the notebook on your GitHub repository -->
 
 
 
